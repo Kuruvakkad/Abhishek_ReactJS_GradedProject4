@@ -1,0 +1,16 @@
+.formadd{
+    
+    width: 500px;
+    margin:100px;
+    border: 2px solid black;
+    border-style: none;
+    padding: 50px;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+.btn-primary{
+    margin-top: 20px;
+    margin-left: 20px;
+    
+}

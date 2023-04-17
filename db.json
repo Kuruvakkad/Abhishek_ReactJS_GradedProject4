@@ -1,0 +1,146 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "Date": "11-04-2023",
+      "Product": "Groceries",
+      "price": 50,
+      "payee": "Rahul"
+    },
+    {
+      "id": 2,
+      "Date": "10-04-2023",
+      "Product": "vegetables",
+      "price": 500,
+      "payee": "Rajesh"
+    },
+    {
+      "id": 4,
+      "Date": "1-04-2023",
+      "Product": "Currentbill",
+      "price": 500,
+      "payee": "Rahul"
+    },
+    {
+      "id": 5,
+      "Date": "12-04-2023",
+      "Product": "waterbill",
+      "price": 250,
+      "payee": "Rahul"
+    },
+    {
+      "id": 3,
+      "Date": "2-04-2023",
+      "Product": "egg",
+      "price": 50,
+      "payee": "Rajesh"
+    },
+    {
+      "payee": "ae",
+      "Product": "lemon",
+      "price": "25",
+      "Date": "2023-04-13",
+      "id": 6
+    },
+    {
+      "payee": "ae",
+      "Product": "DINNER",
+      "price": "750",
+      "Date": "2023-04-08",
+      "id": 7
+    },
+    {
+      "payee": "ae",
+      "Product": "lemon",
+      "price": "20",
+      "Date": "2023-04-06",
+      "id": 8
+    },
+    {
+      "payee": "we",
+      "Product": "soda",
+      "price": "25",
+      "Date": "2023-04-09",
+      "id": 9
+    },
+    {
+      "payee": "ae",
+      "Product": "sugar",
+      "price": "30",
+      "Date": "2023-04-11",
+      "id": 10
+    },
+    {
+      "payee": "Rahul",
+      "Product": "fruits",
+      "price": "100",
+      "Date": "2023-04-14",
+      "id": 11
+    },
+    {
+      "payee": "ae",
+      "Product": "lemon",
+      "price": "85",
+      "Date": "2023-04-01",
+      "id": 12
+    },
+    {
+      "payee": "we",
+      "Product": "sugar",
+      "price": "41",
+      "Date": "2023-04-16",
+      "id": 13
+    },
+    {
+      "payee": "athira",
+      "Product": "parlour",
+      "price": "500",
+      "Date": "2023-04-18",
+      "id": 14
+    },
+    {
+      "payee": "ab",
+      "Product": "DINNER",
+      "price": "25",
+      "Date": "2023-04-17",
+      "id": 15
+    }
+  ],
+  "members": [
+    {
+      "id": 1,
+      "payee": "Rajesh",
+      "email": "rahul@gmail.com"
+    },
+    {
+      "id": 2,
+      "payee": "Rahul",
+      "email": "rajesh@gmail.com"
+    },
+    {
+      "payee": "abhi",
+      "email": "abhishek.sankar@gmail.com",
+      "id": 3
+    },
+    {
+      "payee": "ab",
+      "email": "er@gmail.com",
+      "id": 4
+    },
+    {
+      "payee": "aa",
+      "email": "lakshmipriyasr@federalbank.co.in",
+      "id": 5
+    },
+    {
+      "payee": "lakshmi",
+      "email": "lakshmipriyasr@federalbank.co.i",
+      "id": 6
+    },
+    {
+      "payee": "athira",
+      "email": "er@gmail.com",
+      "id": 7
+    }
+  ]
+}
