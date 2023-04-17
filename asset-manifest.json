@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Abhishek_ReactJS_GradedProject4/static/css/main.51a095bf.css",
+    "main.js": "/Abhishek_ReactJS_GradedProject4/static/js/main.a556f14a.js",
+    "static/js/651.bbbd1a9a.chunk.js": "/Abhishek_ReactJS_GradedProject4/static/js/651.bbbd1a9a.chunk.js",
+    "index.html": "/Abhishek_ReactJS_GradedProject4/index.html",
+    "main.51a095bf.css.map": "/Abhishek_ReactJS_GradedProject4/static/css/main.51a095bf.css.map",
+    "main.a556f14a.js.map": "/Abhishek_ReactJS_GradedProject4/static/js/main.a556f14a.js.map",
+    "651.bbbd1a9a.chunk.js.map": "/Abhishek_ReactJS_GradedProject4/static/js/651.bbbd1a9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51a095bf.css",
+    "static/js/main.a556f14a.js"
+  ]
+}
